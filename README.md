@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Waleed 👋
 
-<!--
-**waleed-wasim-ahmed-ds/waleed-wasim-ahmed-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS Mathematics student at Virtual University with a growing passion for data science and AI. I enjoy turning numbers into insights, and I'm building my skills one project at a time.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+- **Python**: writing clean code and working with data
+- **Mathematics**: calculus and linear algebra, the foundation of machine learning
+- **Git & GitHub**: version control and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm Working Towards
+- Becoming a Data Scientist / AI Engineer
+- Building real-world projects that solve actual problems
+- Contributing to open source
+
+## 🤝 Let's Connect
+I'm always happy to learn from others and talk about data, math, or tech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed_Waseem_Ahmed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-waseem-ahmed)
