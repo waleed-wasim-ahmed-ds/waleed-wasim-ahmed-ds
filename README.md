@@ -15,4 +15,4 @@ I'm a BS Mathematics student at Virtual University with a growing passion for da
 ## 🤝 Let's Connect
 I'm always happy to learn from others and talk about data, math, or tech.
 
-[![LinkedIn](https://www.linkedin.com/in/waleed-wasim-ahmed-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed_Waseem_Ahmed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-waseem-ahmed)
